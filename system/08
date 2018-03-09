@@ -1,0 +1,1 @@
+ssh-keygen (input where to save) cat /root/.ssh/id_rsa (name of file where you've saved it)
